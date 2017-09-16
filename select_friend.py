@@ -7,4 +7,4 @@ def select_friend():
         counter = counter + 1
 
     result = int(raw_input("Select from the list : "))
-return result - 1
+    return result - 1

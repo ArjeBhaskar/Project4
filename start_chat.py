@@ -49,4 +49,4 @@ def start_chat(name, age, rating, status):
                 # close application
                 show_menu = False
             else:
-print "wrong choice try again."
+             print "wrong choice try again."

@@ -45,4 +45,4 @@ def add_status(current_status_message):
     else:
         print 'The option you chose is not valid! Press either y or n.'
 
-return updated_status_message
+    return updated_status_message

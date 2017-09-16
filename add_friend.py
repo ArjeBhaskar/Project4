@@ -29,4 +29,4 @@ def add_friend():
         print 'Sorry! Invalid entry. We can\'t add spy with the details you provided'
 
     # returning total no of friends.
-return len(friends)
+    return len(friends)
